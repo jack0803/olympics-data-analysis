@@ -1,6 +1,3 @@
 # olympics-data-analysis-web-app
-A Streamlit web application for the analysis of olympics dataset
-
-Dataset Link: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
-
-Live Demo: https://oda-campusx.herokuapp.com/
+Abstract
+The Olympic games are international sports events with more than 200 nations participating in various competitions. The Sportspersons from various countries participate in competitions and make their countries proud of their excellence in sports. The primary objective of this paper is to analyze the Olympic dataset using python to compare overall performance of countries and to evaluate the contribution of each country in the Olympics. These analyses will give deeper insight into the performance of countries in Olympics over the years and helps sportspersons to quickly analyze their own and the competitor’s performance. 
